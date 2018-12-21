@@ -74,5 +74,5 @@ Cauchy-Schwarz inequality
 @snapend
 
 @snap[south-west]
-@box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
+@box[bg-orange text-white rounded demo-box-pad](Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
 @snapend
