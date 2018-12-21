@@ -20,6 +20,7 @@ The Agenda
 
 
 ---?color=beige
+@transition[zoom-in fade-out]
 
 @snap[north-west]
 The Key Concepts
