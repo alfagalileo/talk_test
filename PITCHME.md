@@ -60,5 +60,11 @@ The Key Concepts
 
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
+@snap[norh-west]
+The Cauchy-Schwarz Inequality
+@snapend
 
-## Your Slide Content Goes Here
+`\[
+\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+ \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\]`
