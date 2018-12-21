@@ -1,4 +1,4 @@
----?color=lightgray
+---?color=beige
 
 @snap[north-west]
 The Agenda
@@ -68,3 +68,7 @@ The Cauchy-Schwarz Inequality
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \]`
+
+@snap[south-east snap-35]
+@box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
+@snapend
