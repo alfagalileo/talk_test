@@ -57,3 +57,8 @@ The Key Concepts
 @snap[midpoint]
 @fa[refresh fa-3x]
 @snapend
+
+
+---?color=linear-gradient(to left, #56ccf2, #2f80ed)
+
+## Your Slide Content Goes Here
