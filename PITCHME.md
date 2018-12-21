@@ -60,9 +60,10 @@ The Key Concepts
 
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
-@snap[norh-west span-35]
-The Cauchy-Schwarz Inequality
+@snap[north-west]
+Cauchy-Schwarz inequality
 @snapend
+
 
 `\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
