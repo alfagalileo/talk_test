@@ -72,6 +72,6 @@ Cauchy-Schwarz inequality
 \]`
 @snapend
 
-@snap[south-west snap-35]
+@snap[south-west]
 @box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
 @snapend
