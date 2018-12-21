@@ -65,10 +65,12 @@ Cauchy-Schwarz inequality
 @snapend
 
 
+@snap[midpoint]
 `\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \]`
+@snapend
 
 @snap[south-west snap-35]
 @box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
